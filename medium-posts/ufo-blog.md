@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Fri Jun 25, 2021  05:36PM
+Last modified: Sun Jun 27, 2021  02:17PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -83,6 +83,8 @@ Note: post-.md versions on Medium have been slightly edited, so those are the fi
 	* https://apps.dtic.mil/sti/pdfs/AD0688332.pdf
 	* Let's ask astronauts to come forward
 	* https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base
+	* The report is most disappointing because its summer Friday drop date, its dullness, its careful parsing all suggest the government _doesn't_ want to talk about this.
+		* Which makes the powerpoint disclosure timeline hypothesis less likely.
 
 ## mdium
 Installed this software:
