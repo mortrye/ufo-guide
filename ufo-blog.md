@@ -1,17 +1,17 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Sun Jun 27, 2021  09:19PM
+Last modified: Sun Jun 27, 2021  09:30PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
 Note: as of 2021-06-27 21:18:53 this text includes any updates on Medium.
 These versions are the canonical versions.
 
-1. [Let's Talk About UFOs -- Because It's More Exciting Than a Stuck Boat](Stuck-Boat)
-2. [Objects in the sky that go zip](Objectsthatzip)
-3. [What UFOs Are Not: Foreign Technology](notforeigntech)
-4. [What UFOs Are Not: Optical Illusions](notOpticalIllusions)
-5. [The existence of UFOs is not about whether aliens exist, it's about whether FTL travel is possible.](FTLtravel)
-6. [Why haven't the aliens said hello? Because to them we're about the equivalent of ants.](aliens-ants)
+1. [Let's Talk About UFOs -- Because It's More Exciting Than a Stuck Boat](medium-posts/Stuck-Boat)
+2. [Objects in the sky that go zip](medium-posts/Objectsthatzip)
+3. [What UFOs Are Not: Foreign Technology](medium-posts/notforeigntech)
+4. [What UFOs Are Not: Optical Illusions](medium-posts/notOpticalIllusions)
+5. [The existence of UFOs is not about whether aliens exist, it's about whether FTL travel is possible.](medium-posts/FTLtravel)
+6. [Why haven't the aliens said hello? Because to them we're about the equivalent of ants.](medium-posts/aliens-ants)
 
 
 ## Todo:
