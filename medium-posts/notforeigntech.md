@@ -1,5 +1,5 @@
 
-## What UFOs Are Not: Foreign Technology
+## 
 
 The UFOs that the government now admits they have documented (objects-in-the-sky-that-go-_zip_, _not_ UFOs with little green men aboard) are extremely unlikely to be foreign technology. Here’s why:
 
