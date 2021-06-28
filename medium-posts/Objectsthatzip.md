@@ -1,5 +1,3 @@
-/home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/Objectsthatzip.wiki
-Last modified: Sun Jun 27, 2021  09:13PM
 
 # Objects in the sky that go _zip_
 

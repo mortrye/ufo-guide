@@ -1,5 +1,3 @@
-/home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/notforeigntech.wiki
-Last modified: Mon Jun 28, 2021  02:45PM
 
 # What UFOs Are Not: Foreign Technology
 

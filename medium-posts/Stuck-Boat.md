@@ -1,5 +1,3 @@
-/home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/Stuck-Boat.wiki
-Last modified: Sun Jun 27, 2021  09:12PM
 
 # Let's Talk About UFOs -- Because It's More Exciting Than that Stuck Boat
 

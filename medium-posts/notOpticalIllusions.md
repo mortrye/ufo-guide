@@ -1,5 +1,3 @@
-/home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/notOpticalIllusions.wiki
-Last modified: Sun Jun 27, 2021  09:15PM
 
 # What UFOs Are Not: Optical Illusions
 

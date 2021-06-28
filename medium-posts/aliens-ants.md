@@ -1,5 +1,3 @@
-aliens-ants.wiki
-Last modified: Sun Jun 27, 2021  09:17PM
 
 # Why haven't the aliens said hello? Because to them we're about the equivalent of ants.
 

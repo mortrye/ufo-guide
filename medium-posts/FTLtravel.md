@@ -1,5 +1,3 @@
-/home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/FTLtravel.wiki
-Last modified: Sun Jun 27, 2021  09:16PM
 
 # The existence of UFOs is not about whether aliens exist, it's about whether FTL travel is possible.
 
