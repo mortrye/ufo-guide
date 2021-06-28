@@ -1,9 +1,10 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Sun Jun 27, 2021  02:17PM
+Last modified: Sun Jun 27, 2021  09:19PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
-Note: post-.md versions on Medium have been slightly edited, so those are the final/canonical versions of these essays right now.
+Note: as of 2021-06-27 21:18:53 this text includes any updates on Medium.
+These versions are the canonical versions.
 
 1. [Let's Talk About UFOs -- Because It's More Exciting Than a Stuck Boat](Stuck-Boat)
 2. [Objects in the sky that go zip](Objectsthatzip)
