@@ -1,5 +1,5 @@
 
-## 
+  
 
 ![tic tac](/ufo-guide/ufo-pics/tictac/tictac_sm.png "tic tac over Prospect Park")
 

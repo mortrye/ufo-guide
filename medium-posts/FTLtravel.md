@@ -1,5 +1,5 @@
 
-##  
+  
 
 ![dinner plate](/ufo-guide/ufo-pics/dinner-plate/hovering-saucer_sm.png "dinner plate over Prospect Park")
 
