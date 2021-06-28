@@ -1,4 +1,6 @@
 
+## Let's Talk About UFOs -- Because It's More Exciting Than a Stuck Boat
+
 ![Carvel Flying Saucer Over Prospect Park](/ufo-guide/ufo-pics/carvel/carvel-flying-saucer-hover_sm.png "Carvel flying saucer over Prospect Park")
 
 If you ever doubted that the media environment so many of us wallow in has huge problems when it comes to how our attention is parsed, consider that somehow the government’s admission that UFOs are a real thing has not generated nearly the attention that one big boat getting stuck a few months ago did. UFOs are _literally_ plaguing our skies, and the government has [the documentation to prove it](https://www.thedrive.com/the-war-zone/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces). Where is the “HaveTheAliensLanded.com” website? Where’s the endless on-site twitter feed? Where’s the television cameras lined up trying to get a perfectly-framed shot? Why-oh-why can’t I find more to read beyond the same articles recapping the same forced-dullness? Give me opinion! Give me wild conjecture by smart people! Funny quips, stupid memes, new meanings to old emojis! UFOs being real _has_ to be more interesting that a stuck boat.

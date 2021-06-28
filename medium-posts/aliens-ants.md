@@ -1,4 +1,5 @@
 
+## Why haven't the aliens said hello? Because to them we're about the equivalent of ants.
 
 If you read the recent interviews with reasonable science-minded people talking about UFOs and aliens, one of the big doubts they tend to have — even those who hope aliens _are_ visiting — is: if the aliens are here, if they are interested enough to come across space to visit our planet, then why don’t they just say hello already? The fact that they haven’t strongly suggests to these rational folks that aliens are not here.
 
