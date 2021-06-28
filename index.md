@@ -1,5 +1,4 @@
 
-# A Pragmatic Guide to UFOS
 See: [Mort Rye on Medium](https://mortrye.medium.com/)
 
 
