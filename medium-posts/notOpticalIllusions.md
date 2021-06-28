@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What UFOs Are Not: Optical Illusions
+title: "What UFOs Are Not: Optical Illusions"
 ---
 
 ![tic tac](/ufo-guide/ufo-pics/tictac/tictac_sm.png "tic tac over Prospect Park")
