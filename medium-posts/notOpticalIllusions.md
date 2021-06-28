@@ -1,6 +1,4 @@
 
-# What UFOs Are Not: Optical Illusions
-
 
 OK, so let me start by saying that actually they totally _could_ be an optical illusion. But they also _could_ be piloted by extra-terrestrials. The chances that they are optical illusions becomes less and less likely with every bit that gets [leaked from the government](https://www.thedrive.com/the-war-zone/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces). At this point, the likelihood that the UFOs documented by the military are optical illusions is approaching the same likelihood that they are piloted by aliens: pretty remote. I fully expect [_the_ report](https://www.nytimes.com/2021/06/03/us/politics/ufos-sighting-alien-spacecraft-pentagon.html) that comes out in a couple of weeks to pretty much nip optical illusions in the bud.
 

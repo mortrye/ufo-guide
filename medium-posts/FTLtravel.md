@@ -1,6 +1,4 @@
 
-# The existence of UFOs is not about whether aliens exist, it's about whether FTL travel is possible.
-
 
 In all the talk about UFOs (surprisingly limited as it is, considering that speculating on UFOs is _way_ more interesting than obsessing over a stuck ship) perhaps the single question most often asked, by both the media and the causal observer, is: do you believe aliens exist? The weird thing about asking that question is we _know_ the answer already: (almost) unequivocally yes, aliens exist. Almost everyone, even smart, reasonable, science-minded people, believes that _somewhere_ in this overwhelmingly huge universe intelligent life has evolved. Probably many times, in fact.
 
