@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 # Let's Talk About UFOs -- Because It's More Exciting Than a Stuck Boat
