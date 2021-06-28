@@ -1,5 +1,6 @@
 
   
+[//]: # (Have to do something to get github pages to not repeat header)
 
 ![Carvel Flying Saucer Over Prospect Park](/ufo-guide/ufo-pics/carvel/carvel-flying-saucer-hover_sm.png "Carvel flying saucer over Prospect Park")
 
