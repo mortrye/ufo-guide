@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk About UFOs -- Because It's More Exciting Than a Stuck Boat 
+title: Let's Talk About UFOs — Because It's More Exciting Than a Stuck Boat 
 ---
 
 ![Carvel Flying Saucer Over Prospect Park](/ufo-guide/ufo-pics/carvel/carvel-flying-saucer-hover_sm.png "Carvel flying saucer over Prospect Park")

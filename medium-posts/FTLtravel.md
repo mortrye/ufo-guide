@@ -1,5 +1,7 @@
-
-  
+---
+layout: post
+title: The existence of UFOs is not about whether aliens exist, it's about whether FTL travel is possible.
+---
 
 ![dinner plate](/ufo-guide/ufo-pics/dinner-plate/hovering-saucer_sm.png "dinner plate over Prospect Park")
 
