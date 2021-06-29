@@ -6,7 +6,6 @@ layout: home
 * These essays published on Medium: [Mort Rye on Medium](https://mortrye.medium.com/)
 * More stuff by [Mort Rye](https://mortrye.github.io/)
 
-
 1. [Let's Talk About UFOs -- Because It's More Exciting Than a Stuck Boat](medium-posts/Stuck-Boat)
 2. [Objects in the sky that go _zip_](medium-posts/Objectsthatzip)
 3. [What UFOs Are Not: Foreign Technology](medium-posts/notforeigntech)
