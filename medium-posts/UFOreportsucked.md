@@ -17,6 +17,7 @@ Not that any serious people really expected the government to release a photo op
 But no. Just the same thing as before: some stuff, we just don't know. I would have been more satisfied if they had found it was _all_ just deflating balloons.
 
 No, that's not true. The [New Yorker came to the rescue](https://www.newyorker.com/news/daily-comment/the-unexplained-phenomena-of-the-ufo-report) and pointed out that there are _still very weird things out there_, and the government report, in a small way, just reinforced that. There's hope for exciting disclosures yet.
+* The New Yorker points out that the government is convinced there are sightings that are not foriegn tech.
 
 I think the thing about the report that really let me down is the _way_ it came out: late on a Friday, in the middle of summer, with as little fanfare as they could manage. And the report itself couches the nearly unbelievable in as mundane terms as possible. If you are a believer that the government is and has been covering up aliens on Earth for decades, then this just fits their modus operandi: the government is continuing to cover it up. But for a brief moment, I had the sense that there _could_ be a "disclosure timeline" in the works. That somewhere deep in the bowels of a pentagon server is a Powerpoint with a graphic showing:
 * 2017: Release questionable footage of ufos
@@ -30,9 +31,13 @@ Either option kicks up the big wave of ennui. How is a person supposed to stay e
 
 So what now? What can we do to keep this pot stirring, and hopefully get more _real_ and verifiable information based on what we know now? I would suggest making the tie between what the government has documented and admitted, and the long history of reports that match that documentation. The 18 events the report calls out as being truly bizarre (objects holding steady in the wind, performing feats of maneuvering and velocity, and all documented by multiple systems and witnesses, and all in just the last _two years_) have an _uncanny_ resemblance to the "objects in the sky that go _zip_" reported by so many people around the world for the last 80 years. Let's start putting those pieces together.
 
-I know [some groups](https://www.mufon.com/) have been collecting UFO siting reports for decades. And their data might be very useful. But let's go at what we know with a sharp razor: let's eliminate any claims of visitation (for now) and most if not all claims of interacting with an alien ship on the ground. Actually, let's pull out anything where a witness is sure it was aliens. I would like to see someone put together a database of _strong_ reports of "objects in the sky that go _zip_." Match what people have been seeing historically with what the government has documented on its sensors. I think if we do this, we will find a _huge_ collection of unexplainable sightings that goes back through most of the 20th Century (if not further) and are seen around the entire globe.
+I know [some groups](https://www.mufon.com/) have been collecting UFO siting reports for decades. And their data might be very useful. But let's go at what we know with a sharp razor: let's eliminate any claims of visitation (for now) and most if not all claims of interacting with an alien ship on the ground. Actually, let's pull out anything where a witness is sure it was aliens. I would like to see someone put together a database of [_strong_ reports](https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base) of "objects in the sky that go _zip_." Match what people [have been seeing historically](https://apps.dtic.mil/sti/pdfs/AD0688332.pdf) with what the government has documented on its sensors. I think if we do this, we will find a _huge_ collection of unexplainable sightings that goes back through most of the 20th Century (if not further) and are seen around the entire globe.
+* are these things in space?
+	* satellite tracking
+	* It's time to ask astronauts and pilots to come forward. And add satellite tracking info.
 
 With a collection like that, we can unleash the experts on it. I think that what they might find is an unassailable and overwhelming argument for the existence of something extremely strange. _That_ is a report that could get me excited.
+
 
 
 

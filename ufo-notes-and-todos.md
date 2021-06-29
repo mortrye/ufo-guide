@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Mon Jun 28, 2021  01:32PM
+Last modified: Tue Jun 29, 2021  03:02PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -33,6 +33,8 @@ These versions are the canonical versions.
 	* [X] hypersonic weapons are sci-fi fast, but there's no notion that they could accelerate instantly, turn on a dime in a new direction, and leave no exhaust plume. They take enormous amounts of power.
 	* [X] To put it James Cameron terms, hypersonics are a T2-level technology. The feats of these objects documented by the military are a T1000-level technology.
 	* [X] If it's foreign tech, they would have had to have had this technology for 50 years. 
+	* [X] https://www.thedrive.com/the-war-zone/40054/adversary-drones-are-spying-on-the-u-s-and-the-pentagon-acts-like-theyre-ufos
+		* [X] The government report insists this is not the case
 4. [X] What it is not -- optical illusions: (possibly combined with 5)
 	* [X] Even though the hyper-skeptical are doubling-down on optical illusions and misidentifications,
 	* [X] when the most highly trained pilots visuals match what multiple instrument systems are seeing, it's time to put the optical illusion theory on the back burner
@@ -61,23 +63,21 @@ These versions are the canonical versions.
 	* we only think aliens because that's what we've been talking about for 70 years.
 	* But the universe is _weird_, if it's of an unknown origin, the origin _could_ be anything: pan-dimensional, from the deeps of the ocean, transports from the afterlife. There's no way to _know_ anything conclusive, so let's not jump to aliens.
 	* Nature is extremely bizarre and surprising too. Let's not rule out cephalopods.
-	* There's not much evidence that the things that go zip are in space (at least, not that any astronaut is willing to admit)
-		* https://silvarecord.com/2020/09/20/are-satellites-tracking-ufos/
-	* https://www.thedrive.com/the-war-zone/40054/adversary-drones-are-spying-on-the-u-s-and-the-pentagon-acts-like-theyre-ufos
-		* The government report insists this is not the case
 10. why now? pandemic? who knows, but it will be one of the interesting things we'll find out some day.
 	* UFO sightings go in 5 years cycles: https://www.sciencenews.org/article/50-years-ago-ufo-sightings-united-states-went-bust
 	* Somewhere the government might have a powerpoint with a disclosure timeline. We might still be pretty early on the timeline.
 		* Though this is less believable: https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333
 11. The reason aliens are so exciting is because it would show us alternative models. We don't have to be the way we are.
 	* (Though I'm not sure how our cultures through history and around the world don't already show us alternative models)	
-12.  ufos, next step after report release: start gathering all the reports ppl have from the last 80 years to one db
-	* It is the single fact that _so_ many observations of things that go zip --- particularly that zip part, the accelerations and maneuvers --- that strongly suggests these things are real and have been for a long time.
-	* https://apps.dtic.mil/sti/pdfs/AD0688332.pdf
-	* Let's ask astronauts to come forward
-	* https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base
-	* The report is most disappointing because its summer Friday drop date, its dullness, its careful parsing all suggest the government _doesn't_ want to talk about this.
-		* Which makes the powerpoint disclosure timeline hypothesis less likely.
+12. [O]  ufos, next step after report release: start gathering all the reports ppl have from the last 80 years to one db
+	* [X] It is the single fact that _so_ many observations of things that go zip --- particularly that zip part, the accelerations and maneuvers --- that strongly suggests these things are real and have been for a long time.
+	* [X] https://apps.dtic.mil/sti/pdfs/AD0688332.pdf
+	* [ ] There's not much evidence that the things that go zip are in space (at least, not that any astronaut is willing to admit)
+		* https://silvarecord.com/2020/09/20/are-satellites-tracking-ufos/
+		* [ ] Let's ask astronauts to come forward
+	* [X] https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base
+	* [X] The report is most disappointing because its summer Friday drop date, its dullness, its careful parsing all suggest the government _doesn't_ want to talk about this.
+		* [X] Which makes the powerpoint disclosure timeline hypothesis less likely.
 
 ## mdium
 Installed this software:
