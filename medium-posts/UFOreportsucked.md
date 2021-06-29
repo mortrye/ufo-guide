@@ -3,6 +3,9 @@ layout: post
 title: The UFO report is out! It sucked. Now what?
 ---
 
+
+![ODNI seal UFO](/ufo-guide/ufo-pics/ODNI-seal/ODNI-seal-ufo-sm.png "White dude looking at government conspiracy")
+
 So much anticipation! So much excitement! So much daily googling of "UFO report released."
 
 So much disappointment.
