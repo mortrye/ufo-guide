@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Tue Jun 29, 2021  03:02PM
+Last modified: Tue Jun 29, 2021  05:50PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -8,7 +8,7 @@ These versions are the canonical versions.
 
 ## Todo:
 * [X] re-learn how to push mdium to Medium
-* [ ] Add note to not foreign tech:
+* [X] Add note to not foreign tech:
 	* _So on further investigation if you discount the very few truly unexplainable phenomenon, it very well _could_ be foreign technology. And that story is shocking in its own right [link to The drive]._
 * [ ] How to create a "ufo" category on Medium:
 	* "A Pragmatic Guide to the UFOs"
@@ -69,12 +69,12 @@ These versions are the canonical versions.
 		* Though this is less believable: https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333
 11. The reason aliens are so exciting is because it would show us alternative models. We don't have to be the way we are.
 	* (Though I'm not sure how our cultures through history and around the world don't already show us alternative models)	
-12. [O]  ufos, next step after report release: start gathering all the reports ppl have from the last 80 years to one db
+12. [X]  ufos, next step after report release: start gathering all the reports ppl have from the last 80 years to one db
 	* [X] It is the single fact that _so_ many observations of things that go zip --- particularly that zip part, the accelerations and maneuvers --- that strongly suggests these things are real and have been for a long time.
 	* [X] https://apps.dtic.mil/sti/pdfs/AD0688332.pdf
-	* [ ] There's not much evidence that the things that go zip are in space (at least, not that any astronaut is willing to admit)
-		* https://silvarecord.com/2020/09/20/are-satellites-tracking-ufos/
-		* [ ] Let's ask astronauts to come forward
+	* [X] There's not much evidence that the things that go zip are in space (at least, not that any astronaut is willing to admit)
+		* [X] https://silvarecord.com/2020/09/20/are-satellites-tracking-ufos/
+		* [X] Let's ask astronauts to come forward
 	* [X] https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base
 	* [X] The report is most disappointing because its summer Friday drop date, its dullness, its careful parsing all suggest the government _doesn't_ want to talk about this.
 		* [X] Which makes the powerpoint disclosure timeline hypothesis less likely.
@@ -97,6 +97,8 @@ Looks like mdium is getting pretty old. This tool looks more up-to-date:
 https://m2m.pqsec.org/
 Mort Rye Medium integration token:
 2dafc45ccad2ca9f6ff14893820b3842eecd7035b89b341e6ce3f1c5d82f6d339
+---
+When copying to Medium from github pages version, you need to add a # title and remove the yaml at the top of the page.
 
 
 
