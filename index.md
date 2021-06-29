@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 
 See: [Mort Rye on Medium](https://mortrye.medium.com/)
 
