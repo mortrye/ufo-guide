@@ -39,7 +39,7 @@ Next, I keep wondering about this question: are these things in _space_? There i
 
 I want to know if astronauts on the ISS have spotted anything weird when looking out the window. Or have sensors read objects behaving strangely at extremely high altitudes. Has the space shuttle ever bumped into anything? Is [Buzz Aldrin](https://sservi.nasa.gov/?question=buzz-aldrins-ufo-sighting) considering recanting his (convincing) explanation that Apollo 11 was being followed by space garbage, not a strange craft? 
 
-Adding good documentation of "objects that go _zip_" in space would make a _much_ stronger argument that these things are not domestic Earth objects. Surely the first step would be to encourage astronauts to come forward and speak up without fear of ridicule. The culture has shifted recently towared opening that call to pilots (possibly in no small part because of the government report). Let's see it explicitly extended to astronauts as well.
+Adding good documentation of "objects that go _zip_" in space would make a _much_ stronger argument that these things are not domestic Earth objects. Surely the first step would be to encourage astronauts to come forward and speak up without fear of ridicule. The culture has shifted recently toward opening that call to pilots (possibly in no small part because of the government report). Let's see it explicitly extended to astronauts as well.
 
 If we put all that data together, we can unleash the experts on it. What they might find is an unassailable and overwhelming argument for the existence of something extremely strange regardless of what the government has admitted. _That_ is a report that could get me excited.
 

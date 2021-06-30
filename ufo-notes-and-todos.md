@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Tue Jun 29, 2021  05:50PM
+Last modified: Tue Jun 29, 2021  09:13PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -95,8 +95,7 @@ And you need to give the file specific top matter --- see Tremble the Flowering 
 ---
 Looks like mdium is getting pretty old. This tool looks more up-to-date:
 https://m2m.pqsec.org/
-Mort Rye Medium integration token:
-2dafc45ccad2ca9f6ff14893820b3842eecd7035b89b341e6ce3f1c5d82f6d339
+For Mort Rye Medium integration token see encrypted keys file under MEDIUM.
 ---
 When copying to Medium from github pages version, you need to add a # title and remove the yaml at the top of the page.
 
