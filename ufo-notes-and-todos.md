@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Tue Jun 29, 2021  09:13PM
+Last modified: Thu Jul 01, 2021  01:25PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -46,7 +46,7 @@ These versions are the canonical versions.
 	* [X] Scientists study what there is funding for. They do not study what would make their careers look ridiculous
 	* [X] Farmers used to bring rocks to scientists and say "you know this rock looks like it comes from the sky"
 		* [X] Only after hundreds of years of this did scientists acknowledge the existence of meteorites
-6. The Times managed to once again write a headline that anyone not following this could easily skim over. I believe the military is telling the truth when they say they have no evidence that these things are aliens. But the article also strongly suggests they have no evidence that it's _not_ aliens. The headline could just have accurately been "UFOs are real people! But piloted by aliens? Yet to be determined.":
+6. [ ] The Times managed to once again write a headline that anyone not following this could easily skim over. I believe the military is telling the truth when they say they have no evidence that these things are aliens. But the article also strongly suggests they have no evidence that it's _not_ aliens. The headline could just have accurately been "UFOs are real people! But piloted by aliens? Yet to be determined.":
 	* There's this weird thing about how people don't seem to want to talk about it.
 7. [X] It's really NOT about whether aliens exist, it's about whether FTL travel is possible _at all_.
 8. [X] Aliens might think of us as ants
@@ -56,20 +56,31 @@ These versions are the canonical versions.
 	* [X] They could be interested in studying us, and like the ant expert who is fascinated with ant warfare, they might be particularly interested in our war machines. But that could be just pure curiosity.
 	* [X] Are they a threat?
 		* [X] No. Again, If you consider the long history of these things, if they were a threat, we would already be threatened.
-9. How the UFOs could be not-aliens:
+9. [ ] There's a certain kind of smart person who is going around spreading a certain kind of ignorance:
+	* Not to get on the wrong side of [Neil DeGrasse Tyson](https://www.msnbc.com/the-beat-with-ari/watch/see-neil-degrasse-tyson-debunk-alien-believers-after-biden-pentagon-s-ufo-report-115788869792) but
+	* It's just as plausible that we all know what aliens and UFOs look like because _that's what they are_.
+	* We may have been "conditioned" to see aliens that way by _actually_ seeing them.
+	* Nobody ever imagines an alien with big muscles, but wouldn't aliens be far _less_ believable as a real thing if everyone's image of them was different?
+		* Doesn't the fact that they are all the same actually suggest something weird is going on?
+		* Isn't it a little strange how nobody is making a claim that the alien from aliens is real -- we all know that is a work of fiction -- but the type that gets claimed as real is the _same_ type over and over again?
+	* The skeptic looks at the history of UFO reports and how they all look like UFOs on TV:
+		* but maybe the UFOs on TV just _look like the real thing_
+	* Also could include that bit you read about how people are always asking why airline pilots don't see them (they do) and why they aren't seen around the world (they are).
+	* (This could actually be the _most_ powerful essay: take the perspective of the experts and turn it on its head. Give people an alternative explanation of the _real_ stuff going on that is _more_ compelling that the expert explanation.)
+10. [ ] How the UFOs could be not-aliens:
 	* Humans are great at recognizing patterns, even where there aren't any. It's possible that all the phenomneon are being chunked inappropriately, and in fact it is a bunch of things.
 		* The government report lands in exactly this place
 		* But it only takes a few instances of an object doing more than one impossible thing to shoot a hole in this idea. 
 	* we only think aliens because that's what we've been talking about for 70 years.
 	* But the universe is _weird_, if it's of an unknown origin, the origin _could_ be anything: pan-dimensional, from the deeps of the ocean, transports from the afterlife. There's no way to _know_ anything conclusive, so let's not jump to aliens.
 	* Nature is extremely bizarre and surprising too. Let's not rule out cephalopods.
-10. why now? pandemic? who knows, but it will be one of the interesting things we'll find out some day.
+11. [ ] why now? pandemic? who knows, but it will be one of the interesting things we'll find out some day.
 	* UFO sightings go in 5 years cycles: https://www.sciencenews.org/article/50-years-ago-ufo-sightings-united-states-went-bust
 	* Somewhere the government might have a powerpoint with a disclosure timeline. We might still be pretty early on the timeline.
 		* Though this is less believable: https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333
-11. The reason aliens are so exciting is because it would show us alternative models. We don't have to be the way we are.
+12. [ ] The reason aliens are so exciting is because it would show us alternative models. We don't have to be the way we are.
 	* (Though I'm not sure how our cultures through history and around the world don't already show us alternative models)	
-12. [X]  ufos, next step after report release: start gathering all the reports ppl have from the last 80 years to one db
+13. [X]  ufos, next step after report release: start gathering all the reports ppl have from the last 80 years to one db
 	* [X] It is the single fact that _so_ many observations of things that go zip --- particularly that zip part, the accelerations and maneuvers --- that strongly suggests these things are real and have been for a long time.
 	* [X] https://apps.dtic.mil/sti/pdfs/AD0688332.pdf
 	* [X] There's not much evidence that the things that go zip are in space (at least, not that any astronaut is willing to admit)
