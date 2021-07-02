@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Fri Jul 02, 2021  05:13PM
+Last modified: Fri Jul 02, 2021  10:50PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -57,6 +57,7 @@ These versions are the canonical versions.
 	* [X] Are they a threat?
 		* [X] No. Again, If you consider the long history of these things, if they were a threat, we would already be threatened.
 9. [ ] There's a certain kind of smart person who is going around spreading a certain kind of ignorance:
+	* (This is of course not really about ufos, but about scientists, write the piece to follow the thread from ufos to science's issues)
 	* Not to get on the wrong side of [Neil DeGrasse Tyson](https://www.msnbc.com/the-beat-with-ari/watch/see-neil-degrasse-tyson-debunk-alien-believers-after-biden-pentagon-s-ufo-report-115788869792) but
 	* It's just as plausible that we all know what aliens and UFOs look like because _that's what they are_.
 	* We may have been "conditioned" to see aliens that way by _actually_ seeing them.
@@ -68,6 +69,9 @@ These versions are the canonical versions.
 			* and predict with confidence that future outcomes will be in the likely category instead of an unlikely outcome [link to Trump election]
 				* unlikely outcomes are unlikely, but they happen all the time.
 		* Science views the world through a lens of what is _likely_ to be true. This often blinds them to unlikely outcomes.
+		* Or maybe it's not about how scientists internalize statistics as much as it is about how they too rely on stories and heuristics to understand the world
+			* the stories they use to understand the world might be somewhat more influenced by empirical date, but still suffer from all the fallacies of story-based thinking
+			* For example: the health people who avoid cookie dough and eating food off the floor [link to aaron carrol's article about that]
 	* Nobody ever imagines an alien with big muscles, but wouldn't aliens be far _less_ believable as a real thing if everyone's image of them was different?
 		* Doesn't the fact that they are all the same actually suggest something weird is going on?
 		* Isn't it a little strange how nobody is making a claim that the alien from aliens is real -- we all know that is a work of fiction -- but the type that gets claimed as real is the _same_ type over and over again?
