@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Fri Jul 02, 2021  10:50PM
+Last modified: Sat Jul 03, 2021  04:21PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -78,6 +78,7 @@ These versions are the canonical versions.
 	* The skeptic looks at the history of UFO reports and how they all look like UFOs on TV:
 		* but maybe the UFOs on TV just _look like the real thing_
 	* Also could include that bit you read about how people are always asking why airline pilots don't see them (they do) and why they aren't seen around the world (they are).
+	* see notes in germs: science-vs-magic
 	* (This could actually be the _most_ powerful essay: take the perspective of the experts and turn it on its head. Give people an alternative explanation of the _real_ stuff going on that is _more_ compelling that the expert explanation.)
 10. [ ] How the UFOs could be not-aliens:
 	* Humans are great at recognizing patterns, even where there aren't any. It's possible that all the phenomneon are being chunked inappropriately, and in fact it is a bunch of things.
