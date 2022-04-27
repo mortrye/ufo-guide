@@ -13,5 +13,6 @@ layout: home
 5. [The existence of UFOs is not about whether aliens exist, it's about whether FTL travel is possible.](medium-posts/FTLtravel)
 6. [Why haven't the aliens said hello? Because to them we're about the equivalent of ants.](medium-posts/aliens-ants)
 7. [The UFO report is out! It sucked. Now what?](medium-posts/UFOreportsucked)
+8. [If these birds avoided cameras for 50 years, so could the UFOs.](medium-posts/ivory-billed-aliens)
 
 
