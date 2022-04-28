@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Sat Jul 03, 2021  04:21PM
+Last modified: Thu Apr 28, 2022  11:12AM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -10,11 +10,11 @@ These versions are the canonical versions.
 * [X] re-learn how to push mdium to Medium
 * [X] Add note to not foreign tech:
 	* _So on further investigation if you discount the very few truly unexplainable phenomenon, it very well _could_ be foreign technology. And that story is shocking in its own right [link to The drive]._
-* [ ] How to create a "ufo" category on Medium:
+* [X] How to create a "ufo" category on Medium:
 	* "A Pragmatic Guide to the UFOs"
-* [ ] Set up profile on Medium:
-	* [ ] adjust colors to Moria
-	* [ ] Add profile image of some sort
+* [X] Set up profile on Medium:
+	* [X] adjust colors to Moria
+	* [X] Add profile image of some sort
 		* (I think this should be a real human face, me or elsewise) 
 
 ## Notes on what to cover:
@@ -102,6 +102,13 @@ These versions are the canonical versions.
 	* [X] https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base
 	* [X] The report is most disappointing because its summer Friday drop date, its dullness, its careful parsing all suggest the government _doesn't_ want to talk about this.
 		* [X] Which makes the powerpoint disclosure timeline hypothesis less likely.
+14. [ ] post ivory billed woodpecker camera note 
+15. [ ] we live in a simulator (occams razor says this makes more sense than any notion of a multiverse) -- point out how limiting the multiverse concept is: rick and morty end up in exactly the same place as everything everywhere; and the ultimate reaction to both the multiverse and simulation is: who the fuck cares? there's nothing you can do about it either way. see notes about living in a simulator in germs -- wrathful 'god' 
+16. [ ] psychiatrists who believe in telling the future -- the future is set just as solidly as the past 
+17. [ ] interpretation of dreams is broken to science (teeth! tidal waves! -- people all over the world, but science basically has nothing to say about it)
+
+
+
 
 ## mdium
 Installed this software:
