@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Thu Apr 28, 2022  11:12AM
+Last modified: Sat Apr 30, 2022  02:11PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -106,7 +106,11 @@ These versions are the canonical versions.
 15. [ ] we live in a simulator (occams razor says this makes more sense than any notion of a multiverse) -- point out how limiting the multiverse concept is: rick and morty end up in exactly the same place as everything everywhere; and the ultimate reaction to both the multiverse and simulation is: who the fuck cares? there's nothing you can do about it either way. see notes about living in a simulator in germs -- wrathful 'god' 
 16. [ ] psychiatrists who believe in telling the future -- the future is set just as solidly as the past 
 17. [ ] interpretation of dreams is broken to science (teeth! tidal waves! -- people all over the world, but science basically has nothing to say about it)
-
+18. [ ] The thing required for findng out the truth about UFOs, simulations, precognition, etc? Unfortunately, patience.
+	* It's a long road to the truth. that's particularly hard to accept with these things that are so contemporaneously compelling.
+	* We need to adopt an almost spritual approach to these things: apperception of the ideas into our general consciousness.
+	* They are things we can't really demand answers to in the moment, but can hold with us throughout a lifetime of questioning and seeking evidence.
+	* If they are true, the truth may slowly reveal itself, rather than being a shocking revelation someday.
 
 
 
