@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Sat Apr 30, 2022  02:11PM
+Last modified: Wed May 04, 2022  04:46PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -56,7 +56,7 @@ These versions are the canonical versions.
 	* [X] They could be interested in studying us, and like the ant expert who is fascinated with ant warfare, they might be particularly interested in our war machines. But that could be just pure curiosity.
 	* [X] Are they a threat?
 		* [X] No. Again, If you consider the long history of these things, if they were a threat, we would already be threatened.
-9. [ ] There's a certain kind of smart person who is going around spreading a certain kind of ignorance:
+9. [X] There's a certain kind of smart person who is going around spreading a certain kind of ignorance:
 	* (This is of course not really about ufos, but about scientists, write the piece to follow the thread from ufos to science's issues)
 	* Not to get on the wrong side of [Neil DeGrasse Tyson](https://www.msnbc.com/the-beat-with-ari/watch/see-neil-degrasse-tyson-debunk-alien-believers-after-biden-pentagon-s-ufo-report-115788869792) but
 	* It's just as plausible that we all know what aliens and UFOs look like because _that's what they are_.
@@ -70,15 +70,14 @@ These versions are the canonical versions.
 				* unlikely outcomes are unlikely, but they happen all the time.
 		* Science views the world through a lens of what is _likely_ to be true. This often blinds them to unlikely outcomes.
 		* Or maybe it's not about how scientists internalize statistics as much as it is about how they too rely on stories and heuristics to understand the world
-			* the stories they use to understand the world might be somewhat more influenced by empirical date, but still suffer from all the fallacies of story-based thinking
-			* For example: the health people who avoid cookie dough and eating food off the floor [link to aaron carrol's article about that]
+			* the stories they use to understand the world might be somewhat more influenced by empirical data, but still suffer from all the fallacies of story-based thinking
+			* [ ] For example: the health people who avoid cookie dough and eating food off the floor [link to aaron carrol's article about that]
 	* Nobody ever imagines an alien with big muscles, but wouldn't aliens be far _less_ believable as a real thing if everyone's image of them was different?
 		* Doesn't the fact that they are all the same actually suggest something weird is going on?
 		* Isn't it a little strange how nobody is making a claim that the alien from aliens is real -- we all know that is a work of fiction -- but the type that gets claimed as real is the _same_ type over and over again?
 	* The skeptic looks at the history of UFO reports and how they all look like UFOs on TV:
 		* but maybe the UFOs on TV just _look like the real thing_
-	* Also could include that bit you read about how people are always asking why airline pilots don't see them (they do) and why they aren't seen around the world (they are).
-	* see notes in germs: science-vs-magic
+	* [X] Also could include that bit you read about how people are always asking why airline pilots don't see them (they do) and why they aren't seen around the world (they are).
 	* (This could actually be the _most_ powerful essay: take the perspective of the experts and turn it on its head. Give people an alternative explanation of the _real_ stuff going on that is _more_ compelling that the expert explanation.)
 10. [ ] How the UFOs could be not-aliens:
 	* Humans are great at recognizing patterns, even where there aren't any. It's possible that all the phenomneon are being chunked inappropriately, and in fact it is a bunch of things.
@@ -87,13 +86,15 @@ These versions are the canonical versions.
 	* we only think aliens because that's what we've been talking about for 70 years.
 	* But the universe is _weird_, if it's of an unknown origin, the origin _could_ be anything: pan-dimensional, from the deeps of the ocean, transports from the afterlife. There's no way to _know_ anything conclusive, so let's not jump to aliens.
 	* Nature is extremely bizarre and surprising too. Let's not rule out cephalopods.
-11. [ ] why now? pandemic? who knows, but it will be one of the interesting things we'll find out some day.
+	* (see also long note I wrote in response to dude on FTL story)
+11. [ ] publish notes in germs: science-vs-magic
+12. [ ] why now? pandemic? who knows, but it will be one of the interesting things we'll find out some day.
 	* UFO sightings go in 5 years cycles: https://www.sciencenews.org/article/50-years-ago-ufo-sightings-united-states-went-bust
 	* Somewhere the government might have a powerpoint with a disclosure timeline. We might still be pretty early on the timeline.
 		* Though this is less believable: https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333
-12. [ ] The reason aliens are so exciting is because it would show us alternative models. We don't have to be the way we are.
+13. [ ] The reason aliens are so exciting is because it would show us alternative models. We don't have to be the way we are.
 	* (Though I'm not sure how our cultures through history and around the world don't already show us alternative models)	
-13. [X]  ufos, next step after report release: start gathering all the reports ppl have from the last 80 years to one db
+14. [X]  ufos, next step after report release: start gathering all the reports ppl have from the last 80 years to one db
 	* [X] It is the single fact that _so_ many observations of things that go zip --- particularly that zip part, the accelerations and maneuvers --- that strongly suggests these things are real and have been for a long time.
 	* [X] https://apps.dtic.mil/sti/pdfs/AD0688332.pdf
 	* [X] There's not much evidence that the things that go zip are in space (at least, not that any astronaut is willing to admit)
@@ -102,11 +103,11 @@ These versions are the canonical versions.
 	* [X] https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base
 	* [X] The report is most disappointing because its summer Friday drop date, its dullness, its careful parsing all suggest the government _doesn't_ want to talk about this.
 		* [X] Which makes the powerpoint disclosure timeline hypothesis less likely.
-14. [ ] post ivory billed woodpecker camera note 
-15. [ ] we live in a simulator (occams razor says this makes more sense than any notion of a multiverse) -- point out how limiting the multiverse concept is: rick and morty end up in exactly the same place as everything everywhere; and the ultimate reaction to both the multiverse and simulation is: who the fuck cares? there's nothing you can do about it either way. see notes about living in a simulator in germs -- wrathful 'god' 
-16. [ ] psychiatrists who believe in telling the future -- the future is set just as solidly as the past 
-17. [ ] interpretation of dreams is broken to science (teeth! tidal waves! -- people all over the world, but science basically has nothing to say about it)
-18. [ ] The thing required for findng out the truth about UFOs, simulations, precognition, etc? Unfortunately, patience.
+15. [X] post ivory billed woodpecker camera note 
+16. [ ] we live in a simulator (occams razor says this makes more sense than any notion of a multiverse) -- point out how limiting the multiverse concept is: rick and morty end up in exactly the same place as everything everywhere; and the ultimate reaction to both the multiverse and simulation is: who the fuck cares? there's nothing you can do about it either way. see notes about living in a simulator in germs -- wrathful 'god' 
+17. [ ] psychiatrists who believe in telling the future -- the future is set just as solidly as the past 
+18. [ ] interpretation of dreams is broken to science (teeth! tidal waves! -- people all over the world, but science basically has nothing to say about it)
+19. [ ] The thing required for findng out the truth about UFOs, simulations, precognition, etc? Unfortunately, patience.
 	* It's a long road to the truth. that's particularly hard to accept with these things that are so contemporaneously compelling.
 	* We need to adopt an almost spritual approach to these things: apperception of the ideas into our general consciousness.
 	* They are things we can't really demand answers to in the moment, but can hold with us throughout a lifetime of questioning and seeking evidence.
