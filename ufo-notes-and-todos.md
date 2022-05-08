@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Wed May 04, 2022  04:46PM
+Last modified: Sun May 08, 2022  02:16PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -118,7 +118,7 @@ These versions are the canonical versions.
 ## mdium
 Installed this software:
 https://github.com/icyphox/mdium
-But only locally to dynohub. So it's installed in .local/bin/mdium which isn't in dynohub's PATH.
+But only locally. So it's installed in .local/bin/mdium which isn't in dynohub's PATH.
 This software required python-pip which allows you to install python scripts on your system, apparently.
 See readme.md for mdium. You need to set up the authentication token.
 Publish with:
