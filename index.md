@@ -16,4 +16,8 @@ layout: home
 	* What does it take to stay excited about UFOs when the government is doing everything they can to make them as boring as possible? 
 8. [If these birds avoided cameras for 50 years, so could the UFOs.](medium-posts/ivory-billed-aliens)
 	* The existence of the Ivory-Billed Woodpecker - long thought extinct - shows that UFOs might be able to evade us despite camera saturation.
+9. [UFOs/UAPs: The Distortions in the Science Lens](medium-posts/the-science-lens)
+	* Science: is it helping us or hurting us in the effort to figure out UFOs?
+
+
 
