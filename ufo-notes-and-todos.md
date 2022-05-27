@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Sun May 08, 2022  02:16PM
+Last modified: Fri May 27, 2022  05:08PM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -87,6 +87,7 @@ These versions are the canonical versions.
 	* But the universe is _weird_, if it's of an unknown origin, the origin _could_ be anything: pan-dimensional, from the deeps of the ocean, transports from the afterlife. There's no way to _know_ anything conclusive, so let's not jump to aliens.
 	* Nature is extremely bizarre and surprising too. Let's not rule out cephalopods.
 	* (see also long note I wrote in response to dude on FTL story)
+	* See very rational analysis of what (little) we know right now: https://www.bloomberg.com/opinion/articles/2022-05-25/ufo-hearing-what-are-the-chances-we-ve-been-visited-by-aliens
 11. [ ] publish notes in germs: science-vs-magic
 12. [ ] why now? pandemic? who knows, but it will be one of the interesting things we'll find out some day.
 	* UFO sightings go in 5 years cycles: https://www.sciencenews.org/article/50-years-ago-ufo-sightings-united-states-went-bust
