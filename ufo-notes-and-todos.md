@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Fri May 27, 2022  05:08PM
+Last modified: Thu Jun 30, 2022  09:41AM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -89,6 +89,7 @@ These versions are the canonical versions.
 	* (see also long note I wrote in response to dude on FTL story)
 	* See very rational analysis of what (little) we know right now: https://www.bloomberg.com/opinion/articles/2022-05-25/ufo-hearing-what-are-the-chances-we-ve-been-visited-by-aliens
 11. [ ] publish notes in germs: science-vs-magic
+	* [ ] see also note in germs: magic-is-rare
 12. [ ] why now? pandemic? who knows, but it will be one of the interesting things we'll find out some day.
 	* UFO sightings go in 5 years cycles: https://www.sciencenews.org/article/50-years-ago-ufo-sightings-united-states-went-bust
 	* Somewhere the government might have a powerpoint with a disclosure timeline. We might still be pretty early on the timeline.
@@ -106,9 +107,11 @@ These versions are the canonical versions.
 		* [X] Which makes the powerpoint disclosure timeline hypothesis less likely.
 15. [X] post ivory billed woodpecker camera note 
 16. [ ] we live in a simulator (occams razor says this makes more sense than any notion of a multiverse) -- point out how limiting the multiverse concept is: rick and morty end up in exactly the same place as everything everywhere; and the ultimate reaction to both the multiverse and simulation is: who the fuck cares? there's nothing you can do about it either way. see notes about living in a simulator in germs -- wrathful 'god' 
+	* Also the stuff about how once you think 'we live in a simulator' it's impossible to unthink it. All things start to make sense in the context of a simulation run by someone who wants drama and stories (ala df) to arise.
+		* ticks can't hop or fly, for example
 17. [ ] psychiatrists who believe in telling the future -- the future is set just as solidly as the past 
 18. [ ] interpretation of dreams is broken to science (teeth! tidal waves! -- people all over the world, but science basically has nothing to say about it)
-19. [ ] The thing required for findng out the truth about UFOs, simulations, precognition, etc? Unfortunately, patience.
+19. [ ] The thing required for finding out the truth about UFOs, simulations, precognition, etc? Unfortunately, patience.
 	* It's a long road to the truth. that's particularly hard to accept with these things that are so contemporaneously compelling.
 	* We need to adopt an almost spritual approach to these things: apperception of the ideas into our general consciousness.
 	* They are things we can't really demand answers to in the moment, but can hold with us throughout a lifetime of questioning and seeking evidence.
