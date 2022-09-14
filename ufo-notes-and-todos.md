@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Thu Jun 30, 2022  09:41AM
+Last modified: Wed Sep 14, 2022  09:25AM
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -90,13 +90,27 @@ These versions are the canonical versions.
 	* See very rational analysis of what (little) we know right now: https://www.bloomberg.com/opinion/articles/2022-05-25/ufo-hearing-what-are-the-chances-we-ve-been-visited-by-aliens
 11. [ ] publish notes in germs: science-vs-magic
 	* [ ] see also note in germs: magic-is-rare
-12. [ ] why now? pandemic? who knows, but it will be one of the interesting things we'll find out some day.
+12. [ ] science vs magical thinking
+	* It turns out there's all sorts of super-complex information networks that are being shared by non-humans around the world:
+		* wood wide web
+		* woof wide web (the secret network of scents for dogs -- going outside is like scrolling insta for dogs)
+		* epigentics
+		* bird navigation by magnetic fields
+		* whale song that transmits across a hemisphere
+	* All of this stuff is so subtle and so complex that scientists 100 years ago would have dismissed it as magical thinking
+	* for most of the 20th Century (most of the history of science as we know it) scientists were convinced that relatively simple empirical positivist tests could tell them about the world
+		* because they got REALLY good results with some things at first.
+	* But the evidence for something more complex HAD to be there all along (meteorites, again)
+		* they just didn't want to see it
+	* And if you proposed studying one of these more complex things, you would have been dismissed as a quack 
+	* UFOs are totally in this category now.
+13. [ ] why now? pandemic? who knows, but it will be one of the interesting things we'll find out some day.
 	* UFO sightings go in 5 years cycles: https://www.sciencenews.org/article/50-years-ago-ufo-sightings-united-states-went-bust
 	* Somewhere the government might have a powerpoint with a disclosure timeline. We might still be pretty early on the timeline.
 		* Though this is less believable: https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333
-13. [ ] The reason aliens are so exciting is because it would show us alternative models. We don't have to be the way we are.
+14. [ ] The reason aliens are so exciting is because it would show us alternative models. We don't have to be the way we are.
 	* (Though I'm not sure how our cultures through history and around the world don't already show us alternative models)	
-14. [X]  ufos, next step after report release: start gathering all the reports ppl have from the last 80 years to one db
+15. [X]  ufos, next step after report release: start gathering all the reports ppl have from the last 80 years to one db
 	* [X] It is the single fact that _so_ many observations of things that go zip --- particularly that zip part, the accelerations and maneuvers --- that strongly suggests these things are real and have been for a long time.
 	* [X] https://apps.dtic.mil/sti/pdfs/AD0688332.pdf
 	* [X] There's not much evidence that the things that go zip are in space (at least, not that any astronaut is willing to admit)
@@ -105,13 +119,13 @@ These versions are the canonical versions.
 	* [X] https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base
 	* [X] The report is most disappointing because its summer Friday drop date, its dullness, its careful parsing all suggest the government _doesn't_ want to talk about this.
 		* [X] Which makes the powerpoint disclosure timeline hypothesis less likely.
-15. [X] post ivory billed woodpecker camera note 
-16. [ ] we live in a simulator (occams razor says this makes more sense than any notion of a multiverse) -- point out how limiting the multiverse concept is: rick and morty end up in exactly the same place as everything everywhere; and the ultimate reaction to both the multiverse and simulation is: who the fuck cares? there's nothing you can do about it either way. see notes about living in a simulator in germs -- wrathful 'god' 
+16. [X] post ivory billed woodpecker camera note 
+17. [ ] we live in a simulator (occams razor says this makes more sense than any notion of a multiverse) -- point out how limiting the multiverse concept is: rick and morty end up in exactly the same place as everything everywhere; and the ultimate reaction to both the multiverse and simulation is: who the fuck cares? there's nothing you can do about it either way. see notes about living in a simulator in germs -- wrathful 'god' 
 	* Also the stuff about how once you think 'we live in a simulator' it's impossible to unthink it. All things start to make sense in the context of a simulation run by someone who wants drama and stories (ala df) to arise.
 		* ticks can't hop or fly, for example
-17. [ ] psychiatrists who believe in telling the future -- the future is set just as solidly as the past 
-18. [ ] interpretation of dreams is broken to science (teeth! tidal waves! -- people all over the world, but science basically has nothing to say about it)
-19. [ ] The thing required for finding out the truth about UFOs, simulations, precognition, etc? Unfortunately, patience.
+18. [ ] psychiatrists who believe in telling the future -- the future is set just as solidly as the past 
+19. [ ] interpretation of dreams is broken to science (teeth! tidal waves! -- people all over the world, but science basically has nothing to say about it)
+20. [ ] The thing required for finding out the truth about UFOs, simulations, precognition, etc? Unfortunately, patience.
 	* It's a long road to the truth. that's particularly hard to accept with these things that are so contemporaneously compelling.
 	* We need to adopt an almost spritual approach to these things: apperception of the ideas into our general consciousness.
 	* They are things we can't really demand answers to in the moment, but can hold with us throughout a lifetime of questioning and seeking evidence.
