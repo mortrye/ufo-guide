@@ -1,5 +1,5 @@
 /home/dynohub/pCloudDrive/front-hallway/bulletin-board/writing/ufos/ufo-blog.wiki
-Last modified: Fri Oct 28, 2022  09:57AM
+Last modified: 2023-08-04 11:19
 
 
 # Mort Rye UFO blog (on Medium) Notes and todos file
@@ -140,6 +140,15 @@ These versions are the canonical versions.
 	* We need to adopt an almost spritual approach to these things: apperception of the ideas into our general consciousness.
 	* They are things we can't really demand answers to in the moment, but can hold with us throughout a lifetime of questioning and seeking evidence.
 	* If they are true, the truth may slowly reveal itself, rather than being a shocking revelation someday.
+22. [ ] If they exist, why are there so few pictures of UFOs?
+	* As a [recent article in the New Yorker](https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography), it is difficult to look at most photos of UFOs credulously.
+	* To many people, with a sense of how many fancy phone cameras are out there in the world right now, this is the concluding proof that aliens are not visiting out planet.
+	* I'm here not to defend specific lousy photos of UFOs, but to make a case that getting a good picture of a UFO is much more difficult than people think.
+		1. The moon illusion: it's hard to get a good photo of the moon
+		2. Airplane photos: nearly all photos of a plane in the sky taken from the ground are so blurry and indistinct that you might take them for, well, a UFO. Taking a picture of ANY object in the sky has the same problem as the moon illusion. 
+		3. The average person with a camera has no idea how to compensate for this problem. As we see from the Navy videos, even high-tech military equipment can't get a good clean _photo_ of an object in the sky.
+		4. If we assume there's maybe a handful of these objects visiting our planet at any time, the chances that someone with a camera capable of creating a clear image of one encountering it diminishes greatly.
+	* This is not an argument that the _lack_ of evidence shows that UFOs are real, merely that there's sensible plain-thinking reasons why UFO photos may be exceedingly difficult to come by.
 
 
 
